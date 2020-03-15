@@ -1,0 +1,10 @@
+;;; -*- coding: utf-8 -*-
+(("/home/chris/.dotfiles/emacs/.emacs.d/configuration.org" . 10308)
+ ("/home/chris/.emacs.d/recentf" . 274)
+ ("/home/chris/.emacs.d/elpa/wgrep-20200217.1030/wgrep-autoloads.el" . 511)
+ ("/home/chris/.emacs.d/elpa/smex-20151212.2209/smex-autoloads.el" . 626)
+ ("/home/chris/.emacs.d/elpa/flx-20191115.659/flx-autoloads.el" . 380)
+ ("/home/chris/.emacs.d/elpa/counsel-20200224.2036/counsel-autoloads.el" . 17313)
+ ("/home/chris/.emacs.d/elpa/swiper-20200304.1313/swiper-autoloads.el" . 1408)
+ ("/home/chris/.emacs.d/elpa/ivy-20200304.1416/ivy-autoloads.el" . 5277)
+ ("/home/chris/.emacs.d/elpa/yasnippet-20191222.2206/yasnippet-autoloads.el" . 1675))
