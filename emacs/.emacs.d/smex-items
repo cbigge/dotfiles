@@ -1,0 +1,16 @@
+
+;; ----- smex-history -----
+(
+ gofmt
+ cd
+ 5x5
+ arp
+ dbx
+ dig
+ erc
+)
+
+;; ----- smex-data -----
+(
+ (gofmt . 1)
+)

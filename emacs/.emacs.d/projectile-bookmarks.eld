@@ -1,1 +1,1 @@
-("~/.dotfiles/")
+("~/College/SoftwareEngineering/cbpcm/" "~/Projects/go/src/github.com/cbigge/go-web/" "~/.dotfiles/")

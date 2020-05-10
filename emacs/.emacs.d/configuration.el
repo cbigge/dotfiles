@@ -182,7 +182,7 @@
 (use-package go-mode)
 (use-package go-errcheck)
 (use-package company-go)
-(setenv "GOPATH" "/home/cbigge/Projects/go")
+(setenv "GOPATH" "/home/chris/Projects/go")
 (setenv "PATH" (concat (getenv "PATH") ":" "/home/chris/Projects/go/bin"))
 (add-to-list 'exec-path "/home/chris/Projects/go/bin")
 (setq gofmt-command "goimports")
